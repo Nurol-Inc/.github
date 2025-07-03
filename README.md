@@ -1,2 +1,1 @@
-# .github
-Organization Profile
+# Nurol Inc. GitHub Page

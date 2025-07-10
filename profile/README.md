@@ -1,1 +1,1 @@
-# Nurol Inc. GitHub Page
+# Nurol, Inc., Pioneering AI Platforms and Next-Generation Feature Warehousing.
